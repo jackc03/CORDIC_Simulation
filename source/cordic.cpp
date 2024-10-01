@@ -1,4 +1,4 @@
-#include "true_fixed_point_cordic.h"
+#include "cordic.h"
 
 #define NUM_ROATATIONS 12
 const double angles[12] = {0.785398, 0.463648, 0.244979, 0.124355,
